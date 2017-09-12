@@ -1,2 +1,3 @@
 # hello-world
-jest for a testing
+just for a testing
+Do some interesting things.
